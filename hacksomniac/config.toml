@@ -1,0 +1,60 @@
+baseURL = "https://Fraktured.space"
+languageCode = "en-us"
+title = "Fraktured Space"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Fraktured.space - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+
+[params]
+  logo = "/images/cat_dad.png"
+  description ="Engineer Development Site"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "jmfwolf"
+  thumbnail = "/images/author.jpg"
+  description = "Software Engineer"
+
+[params.index]
+  picture = "/images/author.jpg"
+  title = "Software Engineer"
+  subtitle = "Jmfwolf"
+  mdtext = '''
+Engineering is a field of problems and puzzles \
+Sometimes those problems can be solved with code \
+**We are limited by our own motivation**
+'''
+  alertbar = false
+
+[params.social]
+  github = "jmfwolf"
+  linkedin = "jmfwolf"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Web Dev"
+    weight = 200
+    identifier = "webDev"
+    url = "/webDev"
+[[menu.main]]
+    name = "Data Structures"
+    weight = 300
+    identifier = "dataStruct"
+    url = "/static/dataStructures"
+[[menu.main]]
+    name = "Algorithms"
+    identifier = "algorithms"
+    weight = 400
+    url = "/static/algorithms"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 3000
+    url = "/"
