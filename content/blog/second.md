@@ -70,16 +70,16 @@ Each phase of the SDLC requires a different set of skills and knowledge, and it'
 
 While programming is a crucial part of software engineering, the two fields are not synonymous. Here are some of the key differences between being a programmer and being a software engineer:
 
-### Scope of Responsibility:
+- **Scope of Responsibility**:
  A programmer focuses primarily on writing code, while a software engineer is responsible for the entire software development life cycle, from design to deployment.
 
-### Skills and Knowledge: 
+- **Skills and Knowledge**: 
 While both a programmer and a software engineer need to have strong programming skills, a software engineer also needs to have a deep understanding of software design, architecture, and testing.
 
-### Problem-Solving Approach: 
+- **Problem-Solving Approach**: 
 A programmer focuses on writing code to solve a specific problem, while a software engineer takes a more holistic approach, considering the overall design and architecture of the software.
 
-### Career Path:
+- **Career Path**:
  A programmer typically starts out writing code and may eventually transition into a software engineering role. On the other hand, a software engineer typically has a broader range of responsibilities from the outset.
 
 
@@ -90,19 +90,19 @@ It's important to understand these differences in order to determine which caree
 
 If you're a programmer and are interested in transitioning into a software engineering role, here are some tips to help you get started:
 
-### Expand Your Skillset: 
+- **Expand Your Skillset**: 
 To become a software engineer, you'll need to have a strong understanding of software design, architecture, and testing, in addition to your programming skills. Consider taking courses or reading books to expand your knowledge in these areas.
 
-### Work on Larger Projects:
+- **Work on Larger Projects**:
  As a programmer, you may have experience working on small, single-person projects. To become a software engineer, you'll need to have experience working on larger, more complex projects with a team.
 
-### Get Involved in the Design Process:
+- **Get Involved in the Design Process**:
  One of the key responsibilities of a software engineer is to design and architect software. To get experience in this area, consider volunteering to lead the design process on your next project.
 
-### Seek Out Mentorship:
+- **Seek Out Mentorship**:
  Working with experienced software engineers can be a great way to learn about the field and pick up new skills. Seek out mentorship opportunities, either within your company or through local meetups and groups.
 
-### Keep Learning: 
+- **Keep Learning**: 
 The field of software engineering is constantly evolving, and it's important to stay up-to-date with the latest best practices and trends. Consider attending conferences, reading industry blogs, and participating in online communities to continue your education.
 
 
@@ -110,19 +110,19 @@ The field of software engineering is constantly evolving, and it's important to 
 
 If you're just starting out in the field of software engineering, here are some tips to help you succeed:
 
-### Focus on the Fundamentals:
+**Focus on the Fundamentals**:
  The basics of software design, architecture, and testing are crucial to your success as a software engineer. Make sure you have a solid understanding of these concepts before you start working on real-world projects.
 
-### Practice, Practice, Practice:
+- **Practice, Practice, Practice**:
  The best way to become a skilled software engineer is to work on real projects and get hands-on experience. Seek out opportunities to work on projects, either through internships, open source contributions, or personal projects.
 
-### Collaborate with Others:
+- **Collaborate with Others**:
  Software engineering is a team sport, and it's important to have experience working with others. Seek out opportunities to collaborate with other software engineers, whether through pair programming, code review, or group projects.
 
-### Seek Out Mentorship:
+- **Seek Out Mentorship**:
  Working with experienced software engineers can be a great way to learn about the field and pick up new skills. Seek out mentorship opportunities, either within your company or through local meetups and groups.
 
-### Keep Learning: 
+- **Keep Learning**: 
 The field of software engineering is constantly evolving, and it's important to stay up-to-date with the latest best practices and trends. Consider attending conferences, reading industry blogs, and participating in online communities to continue your education.
 
 ## Key Take Away
