@@ -5,7 +5,7 @@ theme = "mediumish"
 summaryLength = 25
 copyright = "Fraktured.space - All rights reserved"
 enableEmoji = true
-publishDir = "docs"
+publishDir = "public"
 
 [params]
   logo = "/images/cat_dad.png"
