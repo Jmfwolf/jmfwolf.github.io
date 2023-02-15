@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithms on Fraktured Space</title>
+    <link>https://fraktured.space/tags/algorithms/</link>
+    <description>Recent content in algorithms on Fraktured Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fraktured.space - All rights reserved</copyright>
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms</title>
+      <link>https://fraktured.space/static/algorithms/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/static/algorithms/</guid>
+      <description>The algorithms module is designed to teach students about the most common and important algorithms used in computer science. An algorithm is a set of steps that can be followed to solve a specific problem.</description>
+    </item>
+    
+  </channel>
+</rss>

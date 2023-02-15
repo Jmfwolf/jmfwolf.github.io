@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="generator" content="Hugo 0.98.0" />
+	
+	<link rel="icon" href="/images/cat_dad.png">
+	
+	<title>Software Documentation | Fraktured Space</title>
+	
+	
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Software Documentation"/>
+<meta name="twitter:description" content="Writing software documentation can be a daunting task for any software engineer, but it is an essential part of developing and maintaining quality software. In this article, we will discuss the best practices for software documentation, automation and tooling for software documentation, the role of software documentation in agile development, and the importance of keeping your software documentation up-to-date."/>
+
+	<meta property="og:title" content="Software Documentation" />
+<meta property="og:description" content="Writing software documentation can be a daunting task for any software engineer, but it is an essential part of developing and maintaining quality software. In this article, we will discuss the best practices for software documentation, automation and tooling for software documentation, the role of software documentation in agile development, and the importance of keeping your software documentation up-to-date." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://fraktured.space/blog/documentation/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2023-02-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-02-09T00:00:00+00:00" />
+
+
+
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+
+	
+	<link rel="stylesheet" href="https://fraktured.space/css/medium.a3d5489836b19de22a81ddc6bd21c17547d07529e67b266427378a04fa3ea727.css" integrity="sha256-o9VImDaxneIqgd3GvSHBdUfQdSnmeyZkJzeKBPo&#43;pyc=">
+
+	
+	<link rel="stylesheet" href="https://fraktured.space/css/additional.8819b6defcdc6d21280f9b402b00df87ca779135901de6c22e708c62e20184b9.css" integrity="sha256-iBm23vzcbSEoD5tAKwDfh8p3kTWQHebCLnCMYuIBhLk=">
+
+	
+	
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    <div class="container pr-0">
+        
+        <a class="navbar-brand" href="https://fraktured.space/">
+
+            
+            <img src="/images/cat_dad.png" alt="logo">
+            
+        </a>
+        
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            
+            <ul class="navbar-nav ml-auto">
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/blog">Blog</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/webdev">Web Dev</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/static/datastructures">Data Structures</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/static/algorithms">Algorithms</a>
+                </li>
+                 
+                <li class="nav-item ">
+                    <a class="nav-link" href="/">About Me</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+    </div>
+</nav>
+
+
+        <div class="site-content">   
+            <div class="container">
+<div class="mainheading">
+    <h1 class="sitetitle">Fraktured Space</h1>
+    <p class="lead">
+         Engineer Development Site
+    </p>
+</div><div class="main-content">
+        
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-2 pl-0"><div class="share sticky-top sticky-top-offset">
+    <p>Share</p>
+    <ul>
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://twitter.com/intent/tweet?text=Software%20Documentation&url=https%3a%2f%2ffraktured.space%2fblog%2fdocumentation%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;">
+        <i class="fab fa-twitter"></i>
+        </a>
+        </li>
+        
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://facebook.com/sharer.php?u=https%3a%2f%2ffraktured.space%2fblog%2fdocumentation%2f" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+        <i class="fab fa-facebook-f"></i>
+        </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+        <a target="_blank" href="https://www.xing.com/spi/shares/new?url=https%3a%2f%2ffraktured.space%2fblog%2fdocumentation%2f" onclick="window.open(this.href, 'xing-share', 'width=550,height=435');return false;">
+        <i class="fab fa-xing"></i>
+        </a>
+        </li>        
+    </ul>
+
+    
+</div>
+</div>
+                                
+                <div class="col-md-9 flex-first flex-md-unordered">
+                    <div class="mainheading">
+                        	
+                        
+                        
+                        
+                        <div class="row post-top-meta">
+                            <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0 md-nopad-right">
+                                <img class="author-thumb" src="/images/author.jpg" alt="jmfwolf">
+                            </div>
+                            <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left md-nopad-left">
+                                <a target="_blank" class="link-dark">jmfwolf</a><br>
+                                <span class="author-description">
+                                    Software Engineer<br>
+                                    <i class="far fa-star"></i>
+                                    Feb 9, 2023
+                                    <i class="far fa-clock clock"></i>
+                                    6 min read
+                                </span>					
+                            </div>
+                        </div>			
+                        	
+                        
+                                                
+                        
+                        <h1 class="posttitle">Software Documentation</h1> 
+                    </div>
+
+                    
+                    
+                    
+                    
+
+                    
+                    <div class="article-post">
+                        <p>Writing software documentation can be a daunting task for any software engineer, but it is an essential part of developing and maintaining quality software. In this article, we will discuss the best practices for software documentation, automation and tooling for software documentation, the role of software documentation in agile development, and the importance of keeping your software documentation up-to-date. By following these best practices and guidelines, you can ensure that your code is properly documented and that all stakeholders are aware of changes to your project. We&rsquo;ll also cover some tips on how to make sure your documentation remains accurate over time. With these tools and techniques at your disposal, you&rsquo;ll be able to keep everyone informed about what&rsquo;s happening with your codebase while ensuring its long-term stability.</p>
+<p>Good software documentation should be clear, concise, and comprehensive. It should include clear explanations of concepts and features, code examples to illustrate usage, and diagrams to visualize ideas. Documentation should also provide guidance on debugging and troubleshooting, as well as best practices. In addition, the writing should be easy to read and understand, with no ambiguity or incorrect information. Good software documentation is key to successful development and maintenance of any software project.</p>
+<p>Software documentation can come in many forms, including user guides, API documentation, and architecture diagrams. User guides provide step-by-step instructions on how to use the software, while API documentation describes the functions, classes, and methods available to interact with the software. Architecture diagrams are also valuable resources, showing the structure and design of the software system in a clear visual format. All of these forms of documentation must be updated regularly to maintain accuracy and relevancy, and should be easily accessible for anyone who needs them.</p>
+<p>When creating documentation, it is important to make sure that it is easy to navigate and understand. It should include a table of contents, so readers can quickly locate the topics they need. To make it easier to use, consider adding links within the document for direct navigation to specific sections. Visual diagrams are also helpful for providing an overview of the software and its components. Short summaries at the beginning of each section will provide an immediate overview of what is discussed in that section. Lastly, automation tools can be used to keep the documentation up-to-date and organized.</p>
+<p>Automating the documentation process can greatly improve efficiency and accuracy. There are a number of tools and technologies available to assist in this effort. For example, a variety of markup and templating languages can be used to generate documents from source code. Additionally, content management systems help to easily manage multiple versions of documents and enable collaboration between authors and readers. Version control systems also provide an overview of changes and enable developers to keep track of different versions. Integrating these tools into the documentation workflow can help ensure that documentation is up-to-date and consistent.</p>
+<p>Automating the documentation process can greatly benefit software development. By using tools and technologies, documentation can be made more consistent and easier to maintain. This also eliminates manual tasks and error-prone processes such as copy/pasting from source code. Additionally, automating the documentation process can help ensure that the most recent version of the documentation is being used. Furthermore, it allows for easy collaboration between authors and readers, as well as increased visibility into changes and updates.</p>
+<p>Examples of popular tools and technologies for software documentation include Doxygen, Swagger, and PlantUML. Doxygen is a tool for extracting documentation from source code, while Swagger provides an interface to access API documentation. PlantUML is a language for creating diagrams and graphs; it is especially useful for visualizing architecture diagrams and other complex topics. By incorporating these tools into the documentation process, developers can create quality documentation quickly and efficiently.</p>
+<p>As an important part of any Agile development process software documentation should be created throughout the development lifecycle, meaning that it has to keep up with the speed and iteration of each sprint. It is important to prioritize which areas need to be documented and make sure that they are updated regularly. Additionally, it is best to automate the documentation process as much as possible to help maintain accuracy and relevancy.</p>
+<p>Maintaining consistent documentation in an Agile environment can be challenging due to its fast pace and short sprints. Documentation must be kept constantly up-to-date in order to remain accurate, and this can be difficult in an ever-changing environment. It is also important to ensure that documentation is always accessible and easily understood by all members of the team, including developers and non-technical stakeholders. Utilizing automation tools can help alleviate some of these challenges, allowing for the creation of quality documentation quickly and efficiently.</p>
+<p>Integrating documentation into an Agile workflow requires following a set of best practices. The most important step is to ensure that documentation is written and updated in a timely manner. Set deadlines for each sprint, so that documentation is created or updated before the end of the iteration. It is also important to prioritize which areas need to be documented and make sure that they are updated regularly. Automating the documentation process can help speed up the process and reduce the burden on developers.</p>
+<p>In addition, it is important to consider how documentation will be consumed by different users. It should be readable, easily navigable, and understandable, no matter the user&rsquo;s technical background. Visual diagrams can help with this, providing an easy-to-understand visual representation of complex topics. Additionally, tools like version control systems can help with tracking changes and ensuring that only the latest version of the documentation is being used. By following these best practices, software documentation can be seamlessly integrated into the Agile process.</p>
+<p>Outdated or inaccurate documentation can have serious consequences for any software project. Without proper documentation, users may not be able to use the software effectively, resulting in decreased efficiency and productivity. Furthermore, incorrect information can lead to incorrect assumptions and errors, potentially causing major issues. Additionally, not having proper documentation can lead to longer development cycles, as developers will have to spend more time understanding the codebase. Finally, there can be legal implications, as software without proper documentation may not meet industry standards or regulations.</p>
+<p>Maintaining documentation in an Agile environment can be challenging due to its fast pace and short sprints. Documentation must be kept constantly up-to-date in order to remain accurate, and this can be difficult in an ever-changing environment. It is also important to ensure that documentation is always accessible and easily understood by all members of the team, including developers and non-technical stakeholders. Utilizing automation tools can help alleviate some of these challenges, allowing for the creation of quality documentation quickly and efficiently.</p>
+<p>In summary, software documentation is an essential part of any software development process. It is important to prioritize good documentation and follow best practices such as automation, version control, and review processes. Additionally, tools and technologies such as Doxygen, Swagger, and PlantUML can be used to improve the documentation workflow. Lastly, it is important to maintain documentation in an Agile environment by following the best practices outlined in this article. By putting these practices into action, teams can ensure that their documentation remains accurate, relevant, and up-to-date. We urge all developers to prioritize good documentation and keep it up-to-date.</p>
+
+                    </div>
+                    
+                    
+                    <div class="after-post-tags">
+                        <ul class="tags">
+                        
+                        <li>
+                        <a href="/tags/html">HTML</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/css">CSS</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/javascript">Javascript</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/web-development">Web Development</a>
+                        </li>
+                        
+                        </ul>
+                    </div>
+                    
+                    
+                    
+                    <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+                    
+                        <a class="d-block col-md-6" href="https://fraktured.space/blog/second/"> &laquo; Engineering vs. Programming</a>
+                    
+                    
+                    <div class="clearfix"></div>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        
+    </div>
+
+
+            </div>
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100">
+		<div class="col-md-4 transpdark align-self-center text-center h-100">
+			<div class="d-md-flex align-items-center justify-content-center h-100">
+				<h2 class="d-md-block d-none align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+			</div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">
+			
+			<a class="mt-1 mb-1" href="/tags/algorithms">algorithms</a>
+			
+			<a class="mt-1 mb-1" href="/tags/css">css</a>
+			
+			<a class="mt-1 mb-1" href="/tags/data-structures">data-structures</a>
+			
+			<a class="mt-1 mb-1" href="/tags/html">html</a>
+			
+			<a class="mt-1 mb-1" href="/tags/javascript">javascript</a>
+			
+			<a class="mt-1 mb-1" href="/tags/software-development">software-development</a>
+			
+			<a class="mt-1 mb-1" href="/tags/web-development">web-development</a>
+			
+		</div>
+	</div>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                &copy; Copyright Fraktured.space - All rights reserved
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                <a target="_blank" rel="noopener" href="https://www.wowthemes.net">Mediumish Theme</a> by WowThemes.net
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+        </div>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+<script src="https://fraktured.space/js/mediumish.84218587c174fd40bce82544b98851670f0b124a7324b349c54a4065e2b32ffc.js" integrity="sha256-hCGFh8F0/UC86CVEuYhRZw8LEkpzJLNJxUpAZeKzL/w="></script>
+    </body>
+</html>
