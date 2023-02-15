@@ -1,7 +1,7 @@
 baseURL = "https://jmfwolf.github.io/"
 languageCode = "en-us"
 title = "Fraktured Space"
-theme = "mediumish-gohugo-theme"
+theme = "mediumish"
 summaryLength = 25
 copyright = "Fraktured.space - All rights reserved"
 enableEmoji = true
