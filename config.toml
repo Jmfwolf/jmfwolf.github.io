@@ -24,7 +24,7 @@ publishDir = "public"
   mdtext = '''
 This site is intended to be a resource to current or aspiring developers to learn the skills to be a software engineer. \
 The Overview of Web Development and the subsequent posts offer links to free online training resources. \
-As the site becomes more fleshed out, it is intended to replicate the Computer Science degree program I did. \
+As the site becomes more fleshed out, it is intended to replicate the Computer Science degree program I did. 
 ---
 Engineering is a field of problems and puzzles \
 Sometimes those problems can be solved with code \
