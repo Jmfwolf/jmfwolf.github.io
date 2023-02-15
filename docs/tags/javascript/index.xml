@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Fraktured Space</title>
+    <link>https://jmfwolf.github.io/tags/javascript/</link>
+    <description>Recent content in Javascript on Fraktured Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fraktured.space - All rights reserved</copyright>
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jmfwolf.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Documentation</title>
+      <link>https://jmfwolf.github.io/blog/documentation/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmfwolf.github.io/blog/documentation/</guid>
+      <description>Writing software documentation can be a daunting task for any software engineer, but it is an essential part of developing and maintaining quality software. In this article, we will discuss the best practices for software documentation, automation and tooling for software documentation, the role of software documentation in agile development, and the importance of keeping your software documentation up-to-date.</description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://jmfwolf.github.io/webdev/javascript/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jmfwolf.github.io/webdev/javascript/</guid>
+      <description>JavaScript is a high-level, dynamic, and interpreted programming language that is widely used for building interactive web applications. JavaScript is used to add interactivity and dynamic behavior to web pages, such as animating elements, processing form data, creating dynamic user interfaces, and more.</description>
+    </item>
+    
+  </channel>
+</rss>
