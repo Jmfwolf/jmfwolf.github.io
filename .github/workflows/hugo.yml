@@ -1,29 +1,29 @@
-name: hugo
+name: Build Site
 
 on:
-  pull_request:
   push:
+    branches:
+      - master
 
 jobs:
-  hugo:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      -
-        name: Checkout
-        uses: actions/checkout@v3
-      -
-        name: Run Hugo
-        uses: crazy-max/ghaction-hugo@v2
+      - name: Checkout Repo
+        uses: actions/checkout@master
         with:
-          version: latest
-          extended: true
-          args: --cleanDestinationDir --minify --verbose
-      -
-        name: Deploy to GitHub Pages
-        if: success() && github.event_name != 'pull_request'
-        uses: crazy-max/ghaction-github-pages@v3
+          submodules: true
+      - name: Build Site
+        uses: chabad360/hugo-actions@master
+        
+      - name: Publish Site
+        uses: chabad360/hugo-actions@master
         with:
-          target_branch: gh-pages
-          build_dir: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          buildPath: 'public'
+          # Use if you have a need to build the site to another directory
+          hugoVersion: 'extended_0.58.3'
+          # Use if your site requires a specific version of Hugo
+          # Append "extended_" to the begining to use Hugo Extended
+          args: --gc --minify --cleanDestinationDir
+          # Use if you want to pass some custom arguments to Hugo
