@@ -1,7 +1,7 @@
 ---
 title: "Plex Media Server Armbian Install"
 date: 2023-02-18
-publishdate: 2023-02-19
+publishdate: 2023-02-18
 tags: ["DIY", "self-hosted", "Armbian", "plex media server"]
 comments: false
 ---

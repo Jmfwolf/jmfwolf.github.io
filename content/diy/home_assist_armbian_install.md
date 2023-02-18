@@ -1,7 +1,7 @@
 ---
 title: "Home Assistant Armbian Install"
 date: 2023-02-18
-publishdate: 2023-02-19
+publishdate: 2023-02-18
 tags: ["DIY", "self-hosted", "Armbian", "home assistant"]
 comments: false
 ---

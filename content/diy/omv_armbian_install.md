@@ -1,7 +1,7 @@
 ---
 title: "Open Media Vault Armbian Install"
 date: 2023-02-18
-publishdate: 2023-02-19
+publishdate: 2023-02-18
 tags: ["DIY", "self-hosted", "Armbian", "open media vault"]
 comments: false
 ---
