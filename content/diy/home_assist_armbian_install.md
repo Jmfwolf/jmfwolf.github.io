@@ -3,6 +3,7 @@ title: "Home Assistant Armbian Install"
 date: 2023-02-18
 publishdate: 2023-02-19
 tags: ["DIY", "self-hosted", "Armbian", "home assistant"]
+comments: false
 ---
 Armbian is a Debian-based operating system designed for ARM-based devices. It is an excellent choice for those who want to run a lightweight and efficient operating system on their single-board computer or other ARM-based devices. One of the many benefits of Armbian is its flexibility, as it allows users to install a wide range of software packages. In this article, we'll walk you through the steps to install Home Assistant on Armbian using the Armbian Config.
 
