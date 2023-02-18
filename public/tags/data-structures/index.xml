@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Structures</title>
-      <link>https://fraktured.space/static/datastructures/</link>
+      <link>https://fraktured.space/engineer/datastructures/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fraktured.space/static/datastructures/</guid>
+      <guid>https://fraktured.space/engineer/datastructures/</guid>
       <description>The data structure module is designed to teach students about the different types of data structures used to store and manipulate data. Data structures are an essential component of computer science and are used in a wide range of applications, from databases and file systems to algorithms and computer graphics.</description>
     </item>
     

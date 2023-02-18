@@ -43,17 +43,12 @@ Sometimes those problems can be solved with code \
     identifier = "blog"
     url = "/blog"
 [[menu.main]]
-    name = "Web Dev"
+    name = "Engineering"
     weight = 200
-    identifier = "webDev"
-    url = "/webDev"
+    identifier = "engineer"
+    url = "/engineer"
 [[menu.main]]
-    name = "Data Structures"
+    name = "DIY"
     weight = 300
-    identifier = "dataStruct"
-    url = "/static/dataStructures"
-[[menu.main]]
-    name = "Algorithms"
-    identifier = "algorithms"
-    weight = 400
-    url = "/static/algorithms"
+    identifier = "diy"
+    url = "/diy"

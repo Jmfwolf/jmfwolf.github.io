@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineers on Fraktured Space</title>
+    <link>https://fraktured.space/engineer/</link>
+    <description>Recent content in Engineers on Fraktured Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fraktured.space - All rights reserved</copyright>
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/engineer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms</title>
+      <link>https://fraktured.space/engineer/algorithms/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/engineer/algorithms/</guid>
+      <description>The algorithms module is designed to teach students about the most common and important algorithms used in computer science. An algorithm is a set of steps that can be followed to solve a specific problem.</description>
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>https://fraktured.space/engineer/datastructures/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/engineer/datastructures/</guid>
+      <description>The data structure module is designed to teach students about the different types of data structures used to store and manipulate data. Data structures are an essential component of computer science and are used in a wide range of applications, from databases and file systems to algorithms and computer graphics.</description>
+    </item>
+    
+    <item>
+      <title>Web Development Overview</title>
+      <link>https://fraktured.space/engineer/overview/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/engineer/overview/</guid>
+      <description>Web development is the process of creating websites and web applications. It involves using a combination of HTML, CSS, and JavaScript to create dynamic and interactive user experiences.</description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://fraktured.space/engineer/css/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/engineer/css/</guid>
+      <description>Cascading Style Sheets CSS, or Cascading Style Sheets, is a style sheet language used to describe the look and layout of a web page. It is used to separate the presentation of a web page from its content, which is described using HTML.</description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://fraktured.space/engineer/javascript/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/engineer/javascript/</guid>
+      <description>JavaScript is a high-level, dynamic, and interpreted programming language that is widely used for building interactive web applications. JavaScript is used to add interactivity and dynamic behavior to web pages, such as animating elements, processing form data, creating dynamic user interfaces, and more.</description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://fraktured.space/engineer/html/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/engineer/html/</guid>
+      <description>Hypertext Markup Language HTML, or Hypertext Markup Language, is the standard language used to create web pages. It provides the structure and content of a web page, including text, images, links, and other elements.</description>
+    </item>
+    
+  </channel>
+</rss>

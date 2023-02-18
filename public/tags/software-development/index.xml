@@ -10,10 +10,10 @@
     <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithms</title>
-      <link>https://fraktured.space/static/algorithms/</link>
+      <link>https://fraktured.space/engineer/algorithms/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fraktured.space/static/algorithms/</guid>
+      <guid>https://fraktured.space/engineer/algorithms/</guid>
       <description>The algorithms module is designed to teach students about the most common and important algorithms used in computer science. An algorithm is a set of steps that can be followed to solve a specific problem.</description>
     </item>
     
@@ -28,28 +28,28 @@
     
     <item>
       <title>CSS</title>
-      <link>https://fraktured.space/webdev/css/</link>
+      <link>https://fraktured.space/engineer/css/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fraktured.space/webdev/css/</guid>
+      <guid>https://fraktured.space/engineer/css/</guid>
       <description>Cascading Style Sheets CSS, or Cascading Style Sheets, is a style sheet language used to describe the look and layout of a web page. It is used to separate the presentation of a web page from its content, which is described using HTML.</description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://fraktured.space/webdev/javascript/</link>
+      <link>https://fraktured.space/engineer/javascript/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fraktured.space/webdev/javascript/</guid>
+      <guid>https://fraktured.space/engineer/javascript/</guid>
       <description>JavaScript is a high-level, dynamic, and interpreted programming language that is widely used for building interactive web applications. JavaScript is used to add interactivity and dynamic behavior to web pages, such as animating elements, processing form data, creating dynamic user interfaces, and more.</description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://fraktured.space/webdev/html/</link>
+      <link>https://fraktured.space/engineer/html/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fraktured.space/webdev/html/</guid>
+      <guid>https://fraktured.space/engineer/html/</guid>
       <description>Hypertext Markup Language HTML, or Hypertext Markup Language, is the standard language used to create web pages. It provides the structure and content of a web page, including text, images, links, and other elements.</description>
     </item>
     
