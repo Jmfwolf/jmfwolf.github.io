@@ -1,7 +1,7 @@
 ---
 title: "5 DIY Tech Projects for Beginners"
-date: 2023-02-10
-publishdate: 2023-02-10
+date: 2023-02-18
+publishdate: 2023-02-18
 image: "/images/blog/8.jpg"
 tags: ["DIY", "self-hosted", "automation"]
 comments: false
