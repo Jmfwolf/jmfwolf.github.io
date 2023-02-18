@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WebDevs on Fraktured Space</title><link>https://fraktured.space/webdev/</link><description>Recent content in WebDevs on Fraktured Space</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Fraktured.space - All rights reserved</copyright><lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/webdev/index.xml" rel="self" type="application/rss+xml"/><item><title>Web Development Overview</title><link>https://fraktured.space/webdev/overview/</link><pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate><guid>https://fraktured.space/webdev/overview/</guid><description>Web development is the process of creating websites and web applications. It involves using a combination of HTML, CSS, and JavaScript to create dynamic and interactive user experiences.</description></item><item><title>CSS</title><link>https://fraktured.space/webdev/css/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://fraktured.space/webdev/css/</guid><description>Cascading Style Sheets CSS, or Cascading Style Sheets, is a style sheet language used to describe the look and layout of a web page. It is used to separate the presentation of a web page from its content, which is described using HTML.</description></item><item><title>Javascript</title><link>https://fraktured.space/webdev/javascript/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://fraktured.space/webdev/javascript/</guid><description>JavaScript is a high-level, dynamic, and interpreted programming language that is widely used for building interactive web applications. JavaScript is used to add interactivity and dynamic behavior to web pages, such as animating elements, processing form data, creating dynamic user interfaces, and more.</description></item><item><title>HTML</title><link>https://fraktured.space/webdev/html/</link><pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate><guid>https://fraktured.space/webdev/html/</guid><description>Hypertext Markup Language HTML, or Hypertext Markup Language, is the standard language used to create web pages. It provides the structure and content of a web page, including text, images, links, and other elements.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebDevs on Fraktured Space</title>
+    <link>https://fraktured.space/webdev/</link>
+    <description>Recent content in WebDevs on Fraktured Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fraktured.space - All rights reserved</copyright>
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development Overview</title>
+      <link>https://fraktured.space/webdev/overview/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/webdev/overview/</guid>
+      <description>Web development is the process of creating websites and web applications. It involves using a combination of HTML, CSS, and JavaScript to create dynamic and interactive user experiences.</description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://fraktured.space/webdev/css/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/webdev/css/</guid>
+      <description>Cascading Style Sheets CSS, or Cascading Style Sheets, is a style sheet language used to describe the look and layout of a web page. It is used to separate the presentation of a web page from its content, which is described using HTML.</description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://fraktured.space/webdev/javascript/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/webdev/javascript/</guid>
+      <description>JavaScript is a high-level, dynamic, and interpreted programming language that is widely used for building interactive web applications. JavaScript is used to add interactivity and dynamic behavior to web pages, such as animating elements, processing form data, creating dynamic user interfaces, and more.</description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://fraktured.space/webdev/html/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/webdev/html/</guid>
+      <description>Hypertext Markup Language HTML, or Hypertext Markup Language, is the standard language used to create web pages. It provides the structure and content of a web page, including text, images, links, and other elements.</description>
+    </item>
+    
+  </channel>
+</rss>
