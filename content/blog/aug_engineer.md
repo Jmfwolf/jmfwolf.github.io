@@ -41,26 +41,6 @@ Formulating clear, focused, and relevant questions is essential when using ChatG
 
 By formulating clear, focused, and relevant questions, you can use ChatGPT to get targeted and informative answers that can help you to solve complex engineering problems more efficiently and effectively. Remember, the quality of the questions you ask will determine the quality of the answers you receive. So take the time to think through your questions carefully and ensure they are as clear and relevant as possible.
 
-## Structuring the Prompt
-
-Here are some general tips on how to structure a prompt:
-
-1. Be clear and concise: Your prompt should be straightforward and easy to understand. Avoid using technical language or jargon that might confuse the reader.
-
-2. Provide context: It's important to provide some context for the prompt to help the reader understand what is being asked of them. This could include background information, examples, or definitions.
-
-3. State the task or question clearly: Make sure that the task or question is stated in a clear and unambiguous manner. It should be specific and directly related to the objective of the prompt.
-
-4. Consider the audience: Think about who your audience is and what they already know. If your audience is unfamiliar with the topic, you may need to provide more background information.
-
-5. Use active voice: When writing a prompt, use active voice to make it more engaging and direct. Avoid using passive voice, which can make the prompt sound vague or indirect.
-
-6. Use formatting and layout to your advantage: Use headings, bullet points, and other formatting techniques to make the prompt easier to read and understand.
-
-7. Provide clear instructions: If the prompt involves a specific task or activity, provide clear instructions on how to complete it. This could include guidelines on the length, format, or style of the response.
-
-By following these guidelines, you can create effective prompts that are easy to understand and that encourage your audience to engage with the task at hand.
-
 ### Examples
 
 Here are some examples of different kinds of prompt techniques:
