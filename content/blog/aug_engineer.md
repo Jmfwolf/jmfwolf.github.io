@@ -15,13 +15,13 @@ As the field of engineering becomes increasingly complex and fast-paced, it's im
 
 Breaking down a complex engineering problem into smaller parts can help you to approach it in a more systematic and structured way. This technique is often called "chunking" or "divide and conquer" and involves breaking the problem down into smaller sub-problems or tasks that are easier to understand and solve. Here are some steps you can follow to break down a complex engineering problem into smaller parts:
 
-    1. Identify the main challenge or goal: Start by identifying the main challenge or goal that you're trying to accomplish. This could be anything from designing a new product to troubleshooting a technical issue.
+1. Identify the main challenge or goal: Start by identifying the main challenge or goal that you're trying to accomplish. This could be anything from designing a new product to troubleshooting a technical issue.
 
-    2. List the main steps or components: Once you've identified the main challenge or goal, try to list the main steps or components involved in solving the problem. This might involve researching relevant technologies, analyzing data, or testing different solutions.
+2. List the main steps or components: Once you've identified the main challenge or goal, try to list the main steps or components involved in solving the problem. This might involve researching relevant technologies, analyzing data, or testing different solutions.
 
-    3. Break down each step or component: For each of the main steps or components, try to break it down into smaller sub-problems or tasks. This might involve researching specific algorithms, gathering data from different sources, or testing different prototypes.
+3. Break down each step or component: For each of the main steps or components, try to break it down into smaller sub-problems or tasks. This might involve researching specific algorithms, gathering data from different sources, or testing different prototypes.
 
-    4. Prioritize the sub-problems or tasks: Once you've broken down each step or component into smaller sub-problems or tasks, try to prioritize them based on their importance and urgency. This will help you to focus your research and make sure that you're tackling the most critical issues first.
+4. Prioritize the sub-problems or tasks: Once you've broken down each step or component into smaller sub-problems or tasks, try to prioritize them based on their importance and urgency. This will help you to focus your research and make sure that you're tackling the most critical issues first.
 
 By breaking down a complex engineering problem into smaller parts, you can make it more manageable and easier to solve. This approach also allows you to focus your research and tackle each sub-problem or task in a more systematic and structured way, which can help you to identify potential solutions more quickly and effectively. When working with ChatGPT, you can use this technique to identify specific questions or topics to ask the AI, helping you to get more targeted and relevant answers.
 
@@ -29,15 +29,15 @@ By breaking down a complex engineering problem into smaller parts, you can make 
 
 Formulating clear, focused, and relevant questions is essential when using ChatGPT to augment your engineering skills. Here are some tips to help you ask effective questions:
 
-    1. Be clear and concise: When asking questions, try to be as clear and concise as possible. Avoid using overly technical language or jargon, and focus on asking simple, straightforward questions.
+1. Be clear and concise: When asking questions, try to be as clear and concise as possible. Avoid using overly technical language or jargon, and focus on asking simple, straightforward questions.
 
-    2. Stay focused on the problem: Make sure your questions are directly related to the problem or challenge you're trying to solve. This will help ChatGPT to provide relevant answers and insights.
+2. Stay focused on the problem: Make sure your questions are directly related to the problem or challenge you're trying to solve. This will help ChatGPT to provide relevant answers and insights.
 
-    3. Ask specific questions: Rather than asking broad, open-ended questions, try to ask specific questions that can be answered with a clear, concise response. For example, instead of asking "how can I improve my coding skills?", ask "what are some techniques for optimizing code performance in Python?".
+3. Ask specific questions: Rather than asking broad, open-ended questions, try to ask specific questions that can be answered with a clear, concise response. For example, instead of asking "how can I improve my coding skills?", ask "what are some techniques for optimizing code performance in Python?".
 
-    4. Use relevant keywords: When formulating your questions, try to use relevant keywords that are directly related to the problem or topic you're researching. This will help ChatGPT to understand the context of your question and provide more accurate answers.
+4. Use relevant keywords: When formulating your questions, try to use relevant keywords that are directly related to the problem or topic you're researching. This will help ChatGPT to understand the context of your question and provide more accurate answers.
 
-    5. Ask follow-up questions: If ChatGPT's initial response doesn't fully answer your question, don't be afraid to ask follow-up questions to clarify or expand on the topic. This can help you to get a more complete understanding of the issue and identify potential solutions.
+5. Ask follow-up questions: If ChatGPT's initial response doesn't fully answer your question, don't be afraid to ask follow-up questions to clarify or expand on the topic. This can help you to get a more complete understanding of the issue and identify potential solutions.
 
 By formulating clear, focused, and relevant questions, you can use ChatGPT to get targeted and informative answers that can help you to solve complex engineering problems more efficiently and effectively. Remember, the quality of the questions you ask will determine the quality of the answers you receive. So take the time to think through your questions carefully and ensure they are as clear and relevant as possible.
 
@@ -45,19 +45,19 @@ By formulating clear, focused, and relevant questions, you can use ChatGPT to ge
 
 Here are some general tips on how to structure a prompt:
 
-    1. Be clear and concise: Your prompt should be straightforward and easy to understand. Avoid using technical language or jargon that might confuse the reader.
+1. Be clear and concise: Your prompt should be straightforward and easy to understand. Avoid using technical language or jargon that might confuse the reader.
 
-    2. Provide context: It's important to provide some context for the prompt to help the reader understand what is being asked of them. This could include background information, examples, or definitions.
+2. Provide context: It's important to provide some context for the prompt to help the reader understand what is being asked of them. This could include background information, examples, or definitions.
 
-    3. State the task or question clearly: Make sure that the task or question is stated in a clear and unambiguous manner. It should be specific and directly related to the objective of the prompt.
+3. State the task or question clearly: Make sure that the task or question is stated in a clear and unambiguous manner. It should be specific and directly related to the objective of the prompt.
 
-    4. Consider the audience: Think about who your audience is and what they already know. If your audience is unfamiliar with the topic, you may need to provide more background information.
+4. Consider the audience: Think about who your audience is and what they already know. If your audience is unfamiliar with the topic, you may need to provide more background information.
 
-    5. Use active voice: When writing a prompt, use active voice to make it more engaging and direct. Avoid using passive voice, which can make the prompt sound vague or indirect.
+5. Use active voice: When writing a prompt, use active voice to make it more engaging and direct. Avoid using passive voice, which can make the prompt sound vague or indirect.
 
-    6. Use formatting and layout to your advantage: Use headings, bullet points, and other formatting techniques to make the prompt easier to read and understand.
+6. Use formatting and layout to your advantage: Use headings, bullet points, and other formatting techniques to make the prompt easier to read and understand.
 
-    7. Provide clear instructions: If the prompt involves a specific task or activity, provide clear instructions on how to complete it. This could include guidelines on the length, format, or style of the response.
+7. Provide clear instructions: If the prompt involves a specific task or activity, provide clear instructions on how to complete it. This could include guidelines on the length, format, or style of the response.
 
 By following these guidelines, you can create effective prompts that are easy to understand and that encourage your audience to engage with the task at hand.
 
