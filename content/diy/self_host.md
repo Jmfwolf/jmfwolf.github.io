@@ -2,7 +2,7 @@
 title: "Hosting on Linode"
 date: 2023-03-30
 publishdate: 2023-03-30
-image: "/images/blog/8.jpg"
+image: "/images/blog/yt affiliate - dev cloud simplified - $100 credit-300x250px-MediumRectangle.jpeg"
 tags: ["DIY", "self-hosted"]
 comments: false
 ---
