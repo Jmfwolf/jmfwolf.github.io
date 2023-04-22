@@ -18,9 +18,8 @@ publishDir = "public"
   description = "Software Engineer"
 
 [params.index]
-  picture = "/images/author.jpg"
-  title = "Software Engineer"
-  subtitle = "Jmfwolf"
+  picture = "/images/misc/clouds.png"
+  title = "Never Stop Learning"
   mdtext = '''
 This site is intended to be a resource to current or aspiring developers to learn the skills to be a software engineer. \
 The Overview of Web Development and the subsequent posts offer links to free online training resources. \

@@ -7,20 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Fraktured.space - All rights reserved</copyright>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>algorithms</title>
-      <link>https://fraktured.space/tags/algorithms/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <title>Armbian</title>
+      <link>https://fraktured.space/tags/armbian/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fraktured.space/tags/algorithms/</guid>
+      <guid>https://fraktured.space/tags/armbian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>automation</title>
       <link>https://fraktured.space/tags/automation/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fraktured.space/tags/automation/</guid>
       <description></description>
@@ -29,18 +29,54 @@
     <item>
       <title>DIY</title>
       <link>https://fraktured.space/tags/diy/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fraktured.space/tags/diy/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>home assistant</title>
+      <link>https://fraktured.space/tags/home-assistant/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/tags/home-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open media vault</title>
+      <link>https://fraktured.space/tags/open-media-vault/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/tags/open-media-vault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plex media server</title>
+      <link>https://fraktured.space/tags/plex-media-server/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/tags/plex-media-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>self-hosted</title>
       <link>https://fraktured.space/tags/self-hosted/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fraktured.space/tags/self-hosted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithms</title>
+      <link>https://fraktured.space/tags/algorithms/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/tags/algorithms/</guid>
       <description></description>
     </item>
     

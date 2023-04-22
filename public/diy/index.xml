@@ -7,14 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Fraktured.space - All rights reserved</copyright>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/diy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fraktured.space/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 DIY Tech Projects for Beginners</title>
       <link>https://fraktured.space/diy/5_project_starter/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fraktured.space/diy/5_project_starter/</guid>
       <description>Technology has become an essential part of our daily lives. With the rise of smart devices, people are looking for ways to enhance their homes with tech.</description>
+    </item>
+    
+    <item>
+      <title>Home Assistant Armbian Install</title>
+      <link>https://fraktured.space/diy/home_assist_armbian_install/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/diy/home_assist_armbian_install/</guid>
+      <description>Armbian is a Debian-based operating system designed for ARM-based devices. It is an excellent choice for those who want to run a lightweight and efficient operating system on their single-board computer or other ARM-based devices.</description>
+    </item>
+    
+    <item>
+      <title>How to Flash Armbian with Balena Etcher</title>
+      <link>https://fraktured.space/diy/how_to_flash_armbian/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/diy/how_to_flash_armbian/</guid>
+      <description>Armbian is a Debian-based operating system designed for ARM-based devices. It is an excellent choice for those who want to run a lightweight and efficient operating system on their single-board computer or other ARM-based devices.</description>
+    </item>
+    
+    <item>
+      <title>Open Media Vault Armbian Install</title>
+      <link>https://fraktured.space/diy/omv_armbian_install/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/diy/omv_armbian_install/</guid>
+      <description>Armbian is a Debian-based operating system designed for ARM-based devices. It is an excellent choice for those who want to run a lightweight and efficient operating system on their single-board computer or other ARM-based devices.</description>
+    </item>
+    
+    <item>
+      <title>Plex Media Server Armbian Install</title>
+      <link>https://fraktured.space/diy/plex_armbian_install/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fraktured.space/diy/plex_armbian_install/</guid>
+      <description>Armbian is a Debian-based operating system designed for ARM-based devices. It is an excellent choice for those who want to run a lightweight and efficient operating system on their single-board computer or other ARM-based devices.</description>
     </item>
     
   </channel>
