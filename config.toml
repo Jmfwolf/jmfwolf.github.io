@@ -21,12 +21,8 @@ publishDir = "public"
   picture = "/images/misc/clouds.png"
   title = "Never Stop Learning"
   mdtext = '''
-This site is intended to be a resource to current or aspiring developers to learn the skills to be a software engineer. \
-The Overview of Web Development and the subsequent posts offer links to free online training resources. \
-As the site becomes more fleshed out, it is intended to replicate the Computer Science degree program I attended. 
+Blog and Engineering resources for Software Developers of all levels.
 ---
-Engineering is a field of problems and puzzles \
-Sometimes those problems can be solved with code \
 **We are limited by our own motivation**
 '''
   alertbar = false
